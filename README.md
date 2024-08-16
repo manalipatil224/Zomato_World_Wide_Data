@@ -13,6 +13,4 @@ This project demonstrates data analysis and visualization techniques using Power
 
 
 Explore the data through various visualizations.
-
-
 This project serves as a basic framework for data analysis and visualization.
