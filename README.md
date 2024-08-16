@@ -6,9 +6,13 @@ This project demonstrates data analysis and visualization techniques using Power
 **Data Visualization:**
 
 Explore your data through various visualizations.
+
 Create KPIs to track key performance indicators.
+
 Utilize map charts, tree maps, bar graphs, pie charts, and slicers to gain insights from different perspectives.
 
+
 Explore the data through various visualizations.
+
 
 This project serves as a basic framework for data analysis and visualization.
