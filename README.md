@@ -1,4 +1,5 @@
 **# Zomato_World_Wide_Data**
+
 Dashboard to show World Wide Data for Zomato.
 
 This project demonstrates data analysis and visualization techniques using Power BI. It starts by importing data from multiple Excel files through the Power Query Editor. The data undergoes cleaning processes, including replacing incorrect city names, removing duplicates, and handling null values. Relevant relationships are then established between tables within the Model view for effective data exploration.
